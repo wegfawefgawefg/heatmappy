@@ -1,0 +1,4 @@
+function mod that runs a func for a while but terminates if it doesnt finish within a time, 
+but continues execution from that point
+
+program to minimize finger movement during typing
